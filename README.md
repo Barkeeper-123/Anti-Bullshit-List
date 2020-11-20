@@ -6,3 +6,8 @@ Prepare for some false positives though because this list is very new and not pe
 
 I just fixed some issues like the Formation issue and removed all broken/empty list, it works now.
 
+IMPORTANT NOTE : The main list "adlists.txt" is under maintenance and I do NOT reccomend ever using it unless you know what you're doing, please use the light.txt list. It is guaranteed to work and only contains the lists of big creators like Peter Lowe, Dan Pollock, Firebog.net and many more.
+light.txt contains the essentials that I use. The main list contains a lot of extra lists that really block some trusted sites which is why im working on fixing the list.
+
+
+
